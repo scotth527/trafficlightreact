@@ -1,34 +1,34 @@
-# Hello World with React and Cloud 9
+# React Traffic Light
 
-#### Make sure you have node version 8
+A traffic light app that uses react.js boilerplate, bootstrap, HTML, and CSS. User clicks on a light and the specific light will "glow", while the other lights turn off.
+
+![Traffic Light](https://hippolms-storage.s3.amazonaws.com/wiz/gifs/311529/5621.gif?AWSAccessKeyId=AKIAJXRM4YAH2A46K76A&Expires=1545076135&Signature=yHAk%2bhkbIt3OpMCjxikYpQJ5AfY=&response-content-disposition=attachment;%20filename=New%2520GIF.gif)
+
+## Live App: [https://scotth527.github.io/trafficlightreact](https://scotth527.github.io/trafficlightreact)
+
+Built from the 4GeeksAcademy react-hello boilerplate here: [https://github.com/4GeeksAcademy/react-hello] (https://github.com/4GeeksAcademy/react-hello)
+
+### Run the Project from Cloud 9 IDE
+
+##### Make sure you have node version 8
 ```sh
-$ nvm i 8
+$ nvm install 8
+$ nvm use 8
+$ node -v
 ```
 
-##### Download the boilerplate using the BreatheCode CLI
-```
-$ npm i breathecode-cli -g
+#### Then run the app!
+```sh
+$ npm run c9
 ```
 
-##### Download the boilerplate using the BreatheCode CLI
-```
-$ breathecode start:react-project -r
-```
-##### and install the npm package:
-```
+##### Install the npm package when changes are made to package.json:
+```sh
 $ npm install
 ```
 
-## Start coding! 
+##### Re-build bundle for deployment outside of GitHub Pages
 
-Start coding your React Application application, update the `styles/index.scss` or `js/index.js` depending on your needs.
-Add more files into your, `./src/js/components` or styles folder as you need them.
-
-## Publish your website! 
-
-This boilerplate is 100% compatible with the free github pages hosting.
-To publish your website into github please run:
 ```sh
-$ npm run deploy
+$ npm run build
 ```
-Note: You will need to [configure github pages for the branch gh-pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/#enabling-github-pages-to-publish-your-site-from-master-or-gh-pages)
