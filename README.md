@@ -2,7 +2,7 @@
 
 A traffic light app that uses react.js boilerplate, bootstrap, HTML, and CSS. User clicks on a light and the specific light will "glow", while the other lights turn off.
 
-![Traffic Light](https://hippolms-storage.s3.amazonaws.com/wiz/gifs/311529/5621.gif?AWSAccessKeyId=AKIAJXRM4YAH2A46K76A&Expires=1545076135&Signature=yHAk%2bhkbIt3OpMCjxikYpQJ5AfY=&response-content-disposition=attachment;%20filename=New%2520GIF.gif)
+![Traffic Light](./example3.gif)
 
 ## Live App: [https://scotth527.github.io/trafficlightreact](https://scotth527.github.io/trafficlightreact)
 
