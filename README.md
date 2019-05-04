@@ -6,7 +6,7 @@ A traffic light app that uses react.js boilerplate, bootstrap, HTML, and CSS. Us
 
 ## Live App: [https://scotth527.github.io/trafficlightreact](https://scotth527.github.io/trafficlightreact)
 
-Built from the 4GeeksAcademy react-hello boilerplate here: [https://github.com/4GeeksAcademy/react-hello] (https://github.com/4GeeksAcademy/react-hello)
+Built from the 4GeeksAcademy react-hello boilerplate here: [https://github.com/4GeeksAcademy/react-hello](https://github.com/4GeeksAcademy/react-hello)
 
 ### Run the Project from Cloud 9 IDE
 
